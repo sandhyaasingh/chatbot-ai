@@ -7,7 +7,7 @@
 ### This repository covers four main components:
 * Development of an intent-based chatbot using NLTK and Deep Learning models. 
 * Integrating the Chatbot with APIs (Weather API, Movie API) and also parsing data from wikipedia using the wikipedia library in python.
-* Establishment of an API endpoint through Flask.
+* Establishment of an API endpoint using the flask framework.
 * Creation of a user interface for the chatbot using JavaScript, HTML, CSS, and ReactJS, ensuring a seamless and interactive user experience.
 
 ## a) Creating the chatbot using NLTK and Feedforward Neural Network (FNN):
