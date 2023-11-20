@@ -33,7 +33,7 @@ def kelvin_to_celsius(kelvin):
     return round(celsius)
 
 def weather_details(city):
-    api_key = '7a2c01e60c74a45270ef52c607ae0048'
+    api_key = 'INSERT YOU OWN API KEY HERE'
     country_code = 'MY'
     city_name = city
     search_url = f'http://api.openweathermap.org/data/2.5/weather?q={city_name},{country_code}&appid={api_key}'
