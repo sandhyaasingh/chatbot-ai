@@ -1,0 +1,122 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Hello",
+        "Good day",
+        "Yo"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Greetings!",
+        "Good to see you!",
+        "Hello, how can I assist you today?",
+        "Hi! I'm here to help.",
+        "Welcome! How can I be of service?",
+        "Hello, what can I answer for you?"
+    ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting!",
+        "Have a fantastic day!",
+        "Goodbye! Feel free to return anytime.",
+        "Farewell, it was nice chatting with you.",
+        "Take care and goodbye!",
+        "Until next time, goodbye!",
+        "Wishing you a wonderful day!",
+        "Goodbye! Remember, I'm here whenever you need assistance."
+    ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!", "tq"],
+      "responses": [
+        "You're welcome!",
+        "No problem at all!",
+        "Glad I could assist!",
+        "Anytime you need help, just ask!",
+        "It's my pleasure to help!"
+    ]
+    },
+    {
+      "tag": "background",
+      "patterns": ["background", "his background", "ongaj's background", "who", "tell me about ongaj", "introduce ongaj", "what is ongaj's background"],
+      "responses": [
+        "OngAJ has a background in lean manufacturing and kaizen from his previous role as an engineer. He's currently in the process of transitioning into the field of Data Science. His journey has been one of self-discovery and passionate learning. He's eager to combine his newfound Data Science skills with his engineering background to drive data-driven insights and make a meaningful impact in the Data Science domain."
+      ]
+    },
+    {
+      "tag": "education",
+      "patterns": ["education", "education background", "is his education background", "is his education", "ongaj's education"],
+      "responses": [
+        "OngAJ earned his Master's Degree in Chemical Engineering with a focus on Oil and Gas Technology in 2020. He graduated with a 2:1 Second-class Honors. His final year thesis, titled 'Recovery of Starch Residues from Sago Effluent using Natural Coagulants"
+      ]
+    },
+    {
+      "tag": "work",
+      "patterns": ["work", "work experience", "his work experience", "experience", "Experience"],
+      "responses": [
+        "After graduation, OngAJ started his career at Daikin Malaysia Sdn Bhd as a Production Engineer. In this role, he was responsible for various aspects of production management, including production planning, team management, workflow optimization, quality enhancement, and cost-saving initiatives. He worked at Daikin for 1 year and 6 months.<br><br>For his second job, OngAJ joined NXP Malaysia Sdn Bhd as a Wire-Bond Equipment Engineer (Front-end BGA). In this role, he was responsible for managing K&S Wire Bonder machines and Post Wire Bond Inspection (AOI) machines, overseeing their operation, maintenance, and performance optimization. OngAJ worked at NXP Malaysia for 6 months"
+      ]
+    },
+    {
+      "tag": "future",
+      "patterns": ["future", "Future", "plans", "Plans", "future plans", "Future plans", "his plans", "his future", "his future plans", "ongaj's future plans", "Ongaj's future plan"],
+      "responses": [
+        "During OngAJ's time at NXP Semiconductor, he developed a deep passion for data science and remains dedicated to turning it into his full-time career. He's currently committed to intensive self-study, focusing on Machine Learning, Deep Learning, Data Analytics, Natural Language Processing and relational databases.<br><br>Simultaneously, he's taken the initiative to create a personal portfolio website where he proudly exhibits a variety of data science projects that highlight his growing expertise. You're welcome to explore these projects in the 'Projects' section on his website"
+      ]
+    },
+    {
+      "tag": "do",
+      "patterns": ["what can you do?", "What can you do?"],
+      "responses": [
+        "Type !info for information on what type of questions you may ask me :)"
+      ]
+    },
+    {
+      "tag": "hobbies",
+      "patterns": ["his hobbies", "hobbies", "hobby", "Hobby", "ongaj's hobbies", "OngAJ's hobbies", "what are ongaj's hobbies" ],
+      "responses": [
+        "OngAJ always has a hunger for competitiveness. He enjoys playing competitive video games, engaging in competitive sports, and going on hiking adventures."
+      ]
+    },
+    {
+      "tag": "languages",
+      "patterns": ["languages", "Languages", "spoken languages", "Spoken languages", "his spoken languages", "ongaj's spoken languages", "ongaj's languages", "how many language can he speak?"],
+      "responses": [
+        "OngAJ is fluent in English, Mandarin and Bahasa Melayu. He is also capable of understanding and speaking Hokkien and Cantonese but with limited proficiency"
+      ]
+    },
+    {
+      "tag": "skills",
+      "patterns": ["data science skills", "skills in data science", "skills", "skill", "ongaj's skills", "his skills", "his skill", "What are ongaj's skills"],
+      "responses": [
+      "OngAJ possesses a strong foundation in Data Analytics, Machine Learning, Deep Learning, Natural Language Processing and relational databases. For a more detailed information about his technical skills, please review his resume <a href='https://drive.google.com/file/d/15BgQuUlHtsDVZKWghgU53hrOrkBryYmp/view' style='color: blue; text-decoration: underline' target='_blank'>OngAJ's Resume</a> or you can find his skills listed on this website's 'Skills' section. Additionally, you can explore some of his data science projects on this portfolio website!"
+      ]
+    },
+    {
+      "tag": "birthday",
+      "patterns": ["birthday", "ongaj's birthday", "when is ongaj's birthday?"],
+      "responses": [
+        "OngAJ's birthday is on January 10 :)"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": ["how old is ongaj", "old", "age", "what is ongaj's age"],
+      "responses": [
+        "OngAJ was born in 1998"
+      ]
+    }   
+  ]
+}
