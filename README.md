@@ -199,6 +199,7 @@ python app.py
 * If you have experience working with front-end frameworks such as CSS, HTML and JavaScript
 * You can refer to an chatbot UI made by me within the chatbotui folder.
 * Feel free to modify the design to your own liking.
+* To test out a live version of the chatbot, check out my portfolio. [Portfolio](https://ongaunjie.netlify.app/)
 
 ### Showcase of the user interface
 ![image](https://github.com/ongaunjie1/AI-Chatbot-DL-NLP/assets/118142884/161a333c-34b0-4e7e-83d1-6468d9cef9cb)
