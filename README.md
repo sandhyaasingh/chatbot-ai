@@ -165,6 +165,9 @@ def weather_details(city):
 ```
 * Upon adding APIs, you will need to create conditional statements (if, elif, else) to help the chatbot differentiate between different types of user queries and trigger specific actions or responses.
 
+### Weather query example:
+![image](https://github.com/ongaunjie1/AI-Chatbot-DL-NLP/assets/118142884/2852d30b-0a35-4b9d-b790-b43d3188f86f)
+
 ## c) Establishing an API endpoint using the flask framework 
 ```
 from flask import Flask, render_template, request, jsonify
