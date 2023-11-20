@@ -33,7 +33,7 @@ def kelvin_to_celsius(kelvin):
     return round(celsius)
 
 def weather_details(city):
-    api_key = 'INSERT YOU OWN API KEY HERE'
+    api_key = 'INSERT YOUR OWN API KEY HERE'
     country_code = 'MY'
     city_name = city
     search_url = f'http://api.openweathermap.org/data/2.5/weather?q={city_name},{country_code}&appid={api_key}'
@@ -69,7 +69,7 @@ def weather_details(city):
     return None
 
 def get_movie_details(title):
-    api_key = '880450881b60cf0464769c0b15e3fdac'
+    api_key = 'INSERT YOUR OWN API KEY HERE'
     search_url = f'https://api.themoviedb.org/3/search/movie?api_key={api_key}&query={title}'
 
     # Make the API call to search for the movie
