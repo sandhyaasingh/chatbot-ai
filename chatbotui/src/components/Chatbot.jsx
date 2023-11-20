@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import brain from '../assets/brain.png'
+import brain from '../assets/icon.png'
 import './style.css';
 
 const initialQuestions = [
