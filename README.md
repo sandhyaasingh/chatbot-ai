@@ -163,6 +163,7 @@ def weather_details(city):
 
     return None
 ```
+* Refer to the chat.py for the movie API implementation and also using the wikipedia library to parse data.
 * Upon adding APIs, you will need to create conditional statements (if, elif, else) to help the chatbot differentiate between different types of user queries and trigger specific actions or responses.
 
 ### Weather query example:
