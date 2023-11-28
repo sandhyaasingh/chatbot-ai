@@ -61,7 +61,7 @@
 
 ## 3) Model Training: 
 * The prepared dataset, including tokenized and preprocessed intents, is used to train a Feedforward Neural Network (FNN).
-* The FNN is implemented using a deep learning framework, such as PyTorch or TensorFlow. (For this repo, it is using PyTorch)
+* The FNN is implemented using a deep learning framework, such as PyTorch or TensorFlow. (For this repo, I am using PyTorch)
 * The neural network architecture comprises input, hidden, and output layers, with appropriate activation functions like ReLU for non-linearity.
 * During training, the model learns to map tokenized input sequences to corresponding intents.
 * The loss function is employed to measure the difference between predicted and actual intents, and optimization techniques, like stochastic gradient descent, are utilized to minimize this loss.
