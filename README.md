@@ -1,5 +1,5 @@
 # AI Chatbot using Deep Learning and Natural Language Processing
-* Test out my chatbot at my personal portfolio: https://ongaunjie.netlify.app/
+* Test out my chatbot at my personal portfolio: https://ongaunjie.com
 * **IMPORTANT NOTE:** If the chatbot is not responding, it is because it takes about 2-5 minutes for it to spin up. This is due to the limitations of free deployments on [Render](https://render.com/). The service will go into hibernation mode after 15 minutes of inactivity.
 
 # To learn more about how it works and how to train a custom chatbot, please read below:
